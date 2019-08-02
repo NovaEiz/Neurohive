@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c95a027-5850-4b53-a41c-eeaae095fa6a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/AngleView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <folding>
+                <marker date="1564766423624" expanded="false" signature="6:45" ph="..." />
+                <marker date="1564766423624" expanded="true" signature="65:644" ph="{...}" />
+                <marker date="1564766423624" expanded="true" signature="107:641" ph="{...}" />
+                <marker date="1564766423624" expanded="true" signature="110:270" ph="Private fields" />
+                <marker date="1564766423624" expanded="true" signature="272:527" ph="Public methods" />
+                <marker date="1564766423624" expanded="true" signature="331:515" ph="{...}" />
+                <marker date="1564766423624" expanded="true" signature="379:401" ph="{...}" />
+                <marker date="1564766423624" expanded="true" signature="529:638" ph="Unity Event methods" />
+                <marker date="1564766423624" expanded="true" signature="580:626" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 2/SpawnObjectInBordersByObjects.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <marker date="1564774536057" expanded="false" signature="6:32" ph="..." />
+                <marker date="1564774536057" expanded="true" signature="52:1253" ph="{...}" />
+                <marker date="1564774536057" expanded="true" signature="114:1250" ph="{...}" />
+                <marker date="1564774536057" expanded="true" signature="117:345" ph="Private fields" />
+                <marker date="1564774536057" expanded="true" signature="347:1088" ph="Private methods" />
+                <marker date="1564774536057" expanded="true" signature="403:1076" ph="{...}" />
+                <marker date="1564774536057" expanded="true" signature="535:589" ph="{...}" />
+                <marker date="1564774536057" expanded="true" signature="858:899" ph="{...}" />
+                <marker date="1564774536057" expanded="true" signature="967:1008" ph="{...}" />
+                <marker date="1564774536057" expanded="true" signature="1090:1200" ph="Public methods" />
+                <marker date="1564774536057" expanded="true" signature="1143:1188" ph="{...}" />
+                <marker date="1564774536057" expanded="true" signature="1224:1247" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ClickOnImageController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1564766759328" expanded="true" signature="6:64" ph="..." />
+                <marker date="1564766759328" expanded="true" signature="84:378" ph="{...}" />
+                <marker date="1564766759328" expanded="true" signature="161:375" ph="{...}" />
+                <marker date="1564766759328" expanded="true" signature="164:305" ph="IPointerClickHandler" />
+                <marker date="1564766759328" expanded="true" signature="250:293" ph="{...}" />
+                <marker date="1564766759328" expanded="true" signature="307:373" ph="Events" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ControllerAngleBetweenObjects.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding>
+                <marker date="1564767138806" expanded="false" signature="6:92" ph="..." />
+                <marker date="1564767138806" expanded="true" signature="112:1264" ph="{...}" />
+                <marker date="1564767138806" expanded="true" signature="174:1261" ph="{...}" />
+                <marker date="1564767138806" expanded="false" signature="177:542" ph="Private fields" />
+                <marker date="1564767138806" expanded="true" signature="544:1059" ph="Private methods" />
+                <marker date="1564767138806" expanded="true" signature="604:1046" ph="{...}" />
+                <marker date="1564767138806" expanded="true" signature="761:777" ph="{...}" />
+                <marker date="1564767138806" expanded="true" signature="1061:1146" ph="Unity Events" />
+                <marker date="1564767138806" expanded="true" signature="1106:1134" ph="{...}" />
+                <marker date="1564767138806" expanded="true" signature="1148:1257" ph="Events" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/LineView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <marker date="1564763738004" expanded="false" signature="6:32" ph="..." />
+                <marker date="1564763738004" expanded="true" signature="52:765" ph="{...}" />
+                <marker date="1564763738004" expanded="true" signature="93:762" ph="{...}" />
+                <marker date="1564763738004" expanded="false" signature="96:232" ph="Private fields" />
+                <marker date="1564763738004" expanded="false" signature="234:586" ph="Private methods" />
+                <marker date="1564763738004" expanded="true" signature="303:344" ph="{...}" />
+                <marker date="1564763738004" expanded="true" signature="382:436" ph="{...}" />
+                <marker date="1564763738004" expanded="true" signature="476:574" ph="{...}" />
+                <marker date="1564763738004" expanded="false" signature="588:759" ph="Public methods" />
+                <marker date="1564763738004" expanded="true" signature="678:747" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Other/Math.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <marker date="1564766241442" expanded="true" signature="38:314" ph="{...}" />
+                <marker date="1564766241442" expanded="true" signature="59:311" ph="{...}" />
+                <marker date="1564766241442" expanded="true" signature="134:307" ph="{...}" />
+                <marker date="1564766241442" expanded="true" signature="259:288" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Other/MathExt.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <marker date="1564765626228" expanded="true" signature="38:412" ph="{...}" />
+                <marker date="1564765626228" expanded="true" signature="68:409" ph="{...}" />
+                <marker date="1564765626228" expanded="true" signature="73:279" ph="/// Получить угол по вектору, направленному к точке ... " />
+                <marker date="1564765626228" expanded="true" signature="351:405" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/Task1Manager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1564766970615" expanded="false" signature="6:32" ph="..." />
+                <marker date="1564766970615" expanded="true" signature="52:860" ph="{...}" />
+                <marker date="1564766970615" expanded="true" signature="97:857" ph="{...}" />
+                <marker date="1564766970615" expanded="true" signature="101:500" ph="Private fields" />
+                <marker date="1564766970615" expanded="true" signature="502:854" ph="Unity Event methods" />
+                <marker date="1564766970615" expanded="true" signature="553:842" ph="{...}" />
+                <marker date="1564766970615" expanded="true" signature="677:758" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ObjectPositionController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1564766704144" expanded="false" signature="6:32" ph="..." />
+                <marker date="1564766704144" expanded="true" signature="52:358" ph="{...}" />
+                <marker date="1564766704144" expanded="true" signature="109:355" ph="{...}" />
+                <marker date="1564766704144" expanded="true" signature="112:228" ph="Private fields" />
+                <marker date="1564766704144" expanded="true" signature="230:352" ph="Public methods" />
+                <marker date="1564766704144" expanded="true" signature="297:340" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/DragOnImageController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1564766946856" expanded="false" signature="6:64" ph="..." />
+                <marker date="1564766946856" expanded="true" signature="84:362" ph="{...}" />
+                <marker date="1564766946856" expanded="true" signature="152:359" ph="{...}" />
+                <marker date="1564766946856" expanded="true" signature="155:284" ph="IPointerClickHandler" />
+                <marker date="1564766946856" expanded="true" signature="225:272" ph="{...}" />
+                <marker date="1564766946856" expanded="true" signature="286:356" ph="Events" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 2/SpawnObjectInBordersByObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/MathExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/AngleView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ControllerAngleBetweenObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/DragOnImageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/LineView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/Task1Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ObjectPositionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F37B2CA-7BC0-4094-93C9-29A81891A481/99/1b022a3c/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ClickOnImageController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/AngleBetweenPointsInUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/AngleBetweenObjectsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/LineView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/TaskManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/Math.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/MathExt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/ControllerAngleBetweenObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/Math.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/UI/AngleView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ClickControllerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ObjectPositionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ClickOnImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/UI/DragOnImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/Task1Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ControllerAngleBetweenObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptsFromOtherProjects/asd.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 2/SpawnObjectByScalableObjectAndLayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 2/SpawnObjectByScalableObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task 2/SpawnObjectInBordersByObjects.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="563" />
+    <option name="y" value="37" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Other" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="ScriptsFromOtherProjects" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Task 1" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Task 1" type="1045f7f1:UnityExplorerNode" />
+              <item name="UI" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Task 2" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c95a027-5850-4b53-a41c-eeaae095fa6a" name="Default Changelist" comment="" />
+      <created>1564762179862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564762179862</updated>
+      <workItem from="1564762183730" duration="6731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6731000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/LineView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/Math.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/ControllerAngleBetweenObjects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/MathExt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F37B2CA-7BC0-4094-93C9-29A81891A481/99/1b022a3c/Vector3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="479" column="35" selection-start-line="479" selection-start-column="24" selection-end-line="479" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Other/Math.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1564766241442" expanded="true" signature="38:314" ph="{...}" />
+            <marker date="1564766241442" expanded="true" signature="59:311" ph="{...}" />
+            <marker date="1564766241442" expanded="true" signature="134:307" ph="{...}" />
+            <marker date="1564766241442" expanded="true" signature="259:288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Other/MathExt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <marker date="1564765626228" expanded="true" signature="38:412" ph="{...}" />
+            <marker date="1564765626228" expanded="true" signature="68:409" ph="{...}" />
+            <marker date="1564765626228" expanded="true" signature="73:279" ph="/// Получить угол по вектору, направленному к точке ... " />
+            <marker date="1564765626228" expanded="true" signature="351:405" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ObjectPositionController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1564766704144" expanded="false" signature="6:32" ph="..." />
+            <marker date="1564766704144" expanded="true" signature="52:358" ph="{...}" />
+            <marker date="1564766704144" expanded="true" signature="109:355" ph="{...}" />
+            <marker date="1564766704144" expanded="true" signature="112:228" ph="Private fields" />
+            <marker date="1564766704144" expanded="true" signature="230:352" ph="Public methods" />
+            <marker date="1564766704144" expanded="true" signature="297:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/Task1Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1564766970615" expanded="false" signature="6:32" ph="..." />
+            <marker date="1564766970615" expanded="true" signature="52:860" ph="{...}" />
+            <marker date="1564766970615" expanded="true" signature="97:857" ph="{...}" />
+            <marker date="1564766970615" expanded="true" signature="101:500" ph="Private fields" />
+            <marker date="1564766970615" expanded="true" signature="502:854" ph="Unity Event methods" />
+            <marker date="1564766970615" expanded="true" signature="553:842" ph="{...}" />
+            <marker date="1564766970615" expanded="true" signature="677:758" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/LineView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1564763738004" expanded="false" signature="6:32" ph="..." />
+            <marker date="1564763738004" expanded="true" signature="52:765" ph="{...}" />
+            <marker date="1564763738004" expanded="true" signature="93:762" ph="{...}" />
+            <marker date="1564763738004" expanded="false" signature="96:232" ph="Private fields" />
+            <marker date="1564763738004" expanded="false" signature="234:586" ph="Private methods" />
+            <marker date="1564763738004" expanded="true" signature="303:344" ph="{...}" />
+            <marker date="1564763738004" expanded="true" signature="382:436" ph="{...}" />
+            <marker date="1564763738004" expanded="true" signature="476:574" ph="{...}" />
+            <marker date="1564763738004" expanded="false" signature="588:759" ph="Public methods" />
+            <marker date="1564763738004" expanded="true" signature="678:747" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ControllerAngleBetweenObjects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <marker date="1564767138806" expanded="false" signature="6:92" ph="..." />
+            <marker date="1564767138806" expanded="true" signature="112:1264" ph="{...}" />
+            <marker date="1564767138806" expanded="true" signature="174:1261" ph="{...}" />
+            <marker date="1564767138806" expanded="false" signature="177:542" ph="Private fields" />
+            <marker date="1564767138806" expanded="true" signature="544:1059" ph="Private methods" />
+            <marker date="1564767138806" expanded="true" signature="604:1046" ph="{...}" />
+            <marker date="1564767138806" expanded="true" signature="761:777" ph="{...}" />
+            <marker date="1564767138806" expanded="true" signature="1061:1146" ph="Unity Events" />
+            <marker date="1564767138806" expanded="true" signature="1106:1134" ph="{...}" />
+            <marker date="1564767138806" expanded="true" signature="1148:1257" ph="Events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/ClickOnImageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1564766759328" expanded="true" signature="6:64" ph="..." />
+            <marker date="1564766759328" expanded="true" signature="84:378" ph="{...}" />
+            <marker date="1564766759328" expanded="true" signature="161:375" ph="{...}" />
+            <marker date="1564766759328" expanded="true" signature="164:305" ph="IPointerClickHandler" />
+            <marker date="1564766759328" expanded="true" signature="250:293" ph="{...}" />
+            <marker date="1564766759328" expanded="true" signature="307:373" ph="Events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptsFromOtherProjects/asd.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" lean-forward="true" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/AngleView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1564766423624" expanded="false" signature="6:45" ph="..." />
+            <marker date="1564766423624" expanded="true" signature="65:644" ph="{...}" />
+            <marker date="1564766423624" expanded="true" signature="107:641" ph="{...}" />
+            <marker date="1564766423624" expanded="true" signature="110:270" ph="Private fields" />
+            <marker date="1564766423624" expanded="true" signature="272:527" ph="Public methods" />
+            <marker date="1564766423624" expanded="true" signature="331:515" ph="{...}" />
+            <marker date="1564766423624" expanded="true" signature="379:401" ph="{...}" />
+            <marker date="1564766423624" expanded="true" signature="529:638" ph="Unity Event methods" />
+            <marker date="1564766423624" expanded="true" signature="580:626" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 1/UI/DragOnImageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1564766946856" expanded="false" signature="6:64" ph="..." />
+            <marker date="1564766946856" expanded="true" signature="84:362" ph="{...}" />
+            <marker date="1564766946856" expanded="true" signature="152:359" ph="{...}" />
+            <marker date="1564766946856" expanded="true" signature="155:284" ph="IPointerClickHandler" />
+            <marker date="1564766946856" expanded="true" signature="225:272" ph="{...}" />
+            <marker date="1564766946856" expanded="true" signature="286:356" ph="Events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Task 2/SpawnObjectInBordersByObjects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <marker date="1564774536057" expanded="false" signature="6:32" ph="..." />
+            <marker date="1564774536057" expanded="true" signature="52:1253" ph="{...}" />
+            <marker date="1564774536057" expanded="true" signature="114:1250" ph="{...}" />
+            <marker date="1564774536057" expanded="true" signature="117:345" ph="Private fields" />
+            <marker date="1564774536057" expanded="true" signature="347:1088" ph="Private methods" />
+            <marker date="1564774536057" expanded="true" signature="403:1076" ph="{...}" />
+            <marker date="1564774536057" expanded="true" signature="535:589" ph="{...}" />
+            <marker date="1564774536057" expanded="true" signature="858:899" ph="{...}" />
+            <marker date="1564774536057" expanded="true" signature="967:1008" ph="{...}" />
+            <marker date="1564774536057" expanded="true" signature="1090:1200" ph="Public methods" />
+            <marker date="1564774536057" expanded="true" signature="1143:1188" ph="{...}" />
+            <marker date="1564774536057" expanded="true" signature="1224:1247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
