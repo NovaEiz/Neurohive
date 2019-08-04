@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.AI;
 
 namespace Nighday {
 
@@ -8,7 +9,7 @@ public class SpawnObjectInBordersByObjects : MonoBehaviour {
 #region Private fields
 
 	[Header(" - Settable fields")]
-	[SerializeField] private Transform _object;
+	[SerializeField] private NavMeshAgent _object;
 
 	[SerializeField] private Transform _outsideBordersScale;
 	[SerializeField] private Transform _insideBordersScale;
@@ -53,7 +54,7 @@ public class SpawnObjectInBordersByObjects : MonoBehaviour {
 #region Public methods
 
 	public void RespawnObject() {
-		_object.localPosition = GetPosition();
+		_object.Warp(GetPosition());
 	}
 
 #endregion

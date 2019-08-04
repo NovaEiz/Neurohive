@@ -10,8 +10,8 @@ public class ControllerAngleBetweenObjects : MonoBehaviour {
 #region Private fields
 	
 	[Header("AngleBetweenPointsInUI - Settable fields")]
-	[SerializeField] private RectTransform _object1;
-	[SerializeField] private RectTransform _object2;
+	[SerializeField] private RectTransform _objectA;
+	[SerializeField] private RectTransform _objectB;
 	
 	[Header("AngleBetweenPointsInUI - Debug fields")]
 	[SerializeField] private float _angle;
@@ -23,9 +23,13 @@ public class ControllerAngleBetweenObjects : MonoBehaviour {
 
 #region Private methods
 
+	private void UpdateRotationObjectA() {
+		_objectA.rotation = Quaternion.Euler(new Vector3(0, 0, _angle));
+	}
+
 	private void UpdatePositionLine() {
-		var pos1  = _object1.anchoredPosition;
-		var pos2  = _object2.anchoredPosition;
+		var pos1  = _objectA.anchoredPosition;
+		var pos2  = _objectB.anchoredPosition;
 		
 		if (_savedPositionObject1 == pos1 && _savedPositionObject2 == pos2) {
 			return;
@@ -37,6 +41,8 @@ public class ControllerAngleBetweenObjects : MonoBehaviour {
 		_angle = angle;
 		_savedPositionObject1 = pos1;
 		_savedPositionObject2 = pos2;
+		
+		UpdateRotationObjectA();
 		
 		OnChangedPositionObjects?.Invoke(pos1, pos2, angle, distance);
 	}
